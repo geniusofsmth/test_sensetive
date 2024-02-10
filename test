@@ -1,0 +1,5 @@
+#test sensitive data repo
+pass = 'Qwerty12345'
+password = '1qaz@WSX'
+key_bs64 = 'MXFhekBXU1g='
+crt = -----BEGIN PRIVATE KEY-----
